@@ -41,7 +41,7 @@ We am looking for highly motivated Research Associate/Assistant and Postgraduate
 
 ### Journal Papers - Published
 
-**Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) Value of supply chain resilience: Roles of culture, flexibility, and integration. **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [PDF](csli.github.com/20190825232007 - CV pic2.jpg)
+**Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) Value of supply chain resilience: Roles of culture, flexibility, and integration. **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [PDF](10-1108_IJPDLM-02-2019-0041.pdf)
 
 [Impact factor 5.21, JCR Q1, Ranking 24/217]
 
