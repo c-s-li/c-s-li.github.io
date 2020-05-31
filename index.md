@@ -10,7 +10,7 @@
       <p><b>Email: csli AT must DOT edu DOT mo</b></p>
     </td>
     <td width="30%">
-      <img src="/20190825232007 - CV pic2.jpg" width="75%">
+      <img src="/20190825232007 - CV pic2.jpg" width="100%">
     </td>
   </tr>
 </table>
