@@ -4,12 +4,13 @@
   <tr>
     <td width="70%">
       <p><b>Assistant Professor</b></p>
-      <p><b>School of Business, </b></p>
+      <p><b>Department of Decision Sciences</b></p>
+      <p><b>School of Business</b></p>
       <p><b>Macau University of Science and Technology</b></p>
       <p><b>Email: csli AT must DOT edu DOT mo</b></p>
     </td>
     <td width="30%">
-      <img src="/20190825232007 - CV pic2.jpg" width="75%">
+      <img src="/20190825232007 - CV pic2.jpg" width="50%">
     </td>
   </tr>
 </table>
