@@ -12,7 +12,7 @@
 
 ## RESEARCH INTERESTS
 
-Supply chain management, operations management, servitization, consumer behaviour, managerial behaviour, and meta-analyses
+Supply chain and operations management, supply chain analytics, business analytics, social network analytics, data analytics
 
 ## RECRUITMENT
 We am looking for highly motivated **Research Associate/Assistant** and Postgraduate (**PhD/MPhil**) students with strong background in Computer Science, Business Analytics, Supply Chain Management, and Operations Management. **Undergraduate** students who are interested in my research are also welcome to join us.
