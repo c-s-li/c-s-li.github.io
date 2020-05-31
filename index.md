@@ -8,6 +8,8 @@ Macau University of Science and Technology, Taipa, Macau
 
 Email: csli AT must DOT edu DOT mo
 
+![Image](src)
+
 ## RESEARCH INTERESTS
 
 Supply chain management, operations management, servitization, consumer behaviour, managerial behaviour, and meta-analyses
