@@ -1,4 +1,4 @@
-# LI, CHUN SHENG _(PhD)_
+# LI, CHUN SHENG _(BEng, MA, PhD)_
       
 <table border="0">
   <tr>
