@@ -1,4 +1,4 @@
-# CHUN SHENG LI
+# LI, CHUN SHENG
       
 <table border="0">
   <tr>
@@ -15,7 +15,7 @@
 Supply chain management, operations management, servitization, consumer behaviour, managerial behaviour, and meta-analyses
 
 ## RECRUITMENT
-We am looking for highly motivated Research Associate/Assistant and Postgraduate (PhD/MPhil) students with strong background in Computer Science, Business Analytics, Supply Chain Management, and Operations Management. Undergraduate students who are interested in my research are also welcome to join us.
+We am looking for highly motivated **Research Associate/Assistant** and Postgraduate (**PhD/MPhil**) students with strong background in Computer Science, Business Analytics, Supply Chain Management, and Operations Management. **Undergraduate** students who are interested in my research are also welcome to join us.
 
 ## ACADEMIC QUALIFICATIONS
 
@@ -37,7 +37,7 @@ We am looking for highly motivated Research Associate/Assistant and Postgraduate
 
 ### Journal Papers - Published
 
-**Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) Value of supply chain resilience: Roles of culture, flexibility, and integration. **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [PDF](10-1108_IJPDLM-02-2019-0041.pdf)
+**Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) Value of supply chain resilience: Roles of culture, flexibility, and integration. **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [[PAPER](10-1108_IJPDLM-02-2019-0041.pdf)]
 
 [Impact factor 5.21, JCR Q1, Ranking 24/217]
 
@@ -51,7 +51,7 @@ We am looking for highly motivated Research Associate/Assistant and Postgraduate
 
 [Impact factor 5.21, JCR Q1, Ranking 11/217]
 
-**Li, C.S.**, Wong, C.W.Y.* (2020) Exploring performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **Journal of Operations Management**, Under review.
+**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. **Journal of Operations Management**, Under review.
 
 [Impact factor 7.78, JCR Q1, Ranking 1/84]
 
