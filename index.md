@@ -8,7 +8,19 @@ Macau University of Science and Technology, Taipa, Macau
 
 Email: csli AT must DOT edu DOT mo
 
-![Image](src)
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Assistant Professor</b></p>
+      <p><b>Department of Decision Sciences, School of Business, </b></p>
+      <p><b>Macau University of Science and Technology, Taipa, Macau</b></p>
+      <p><b>Email: csli AT must DOT edu DOT mo</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ## RESEARCH INTERESTS
 
