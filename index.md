@@ -1,13 +1,5 @@
 # CHUN SHENG LI
 
-Assistant Professor
-
-Department of Decision Sciences, School of Business, 
-
-Macau University of Science and Technology, Taipa, Macau
-
-Email: csli AT must DOT edu DOT mo
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -17,7 +9,7 @@ Email: csli AT must DOT edu DOT mo
       <p><b>Email: csli AT must DOT edu DOT mo</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/20190825232007 - CV pic2.jpg" width="75%">
     </td>
   </tr>
 </table>
