@@ -1,5 +1,9 @@
 # LI, CHUN SHENG _(BEng, MA, PhD)_
-      
+
+<div class="header" id="myHeader">
+  <h2>LI, CHUN SHENG (BEng, MA, PhD)</h2>
+</div>
+
 <table border="0">
   <tr>
       <p><b>Assistant Professor</b></p>
