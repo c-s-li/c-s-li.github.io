@@ -1,13 +1,5 @@
 # LI, CHUN SHENG _(BEng, MA, PhD)_
 
-
-<div class="header">
-  <h1>LI, CHUN SHENG _(BEng, MA, PhD)_</h1>
-</div>
-<div class="content">
-</div>
-
-
 <table border="0">
   <tr>
       <p><b>Assistant Professor</b></p>
