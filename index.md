@@ -45,11 +45,11 @@ We am looking for highly motivated **Research Associate/Assistant** and Postgrad
 
 **Li, C.S.**, & Wong, C.W.Y.* (2020) Impact of supply chain resilience on firm performance: a meta-analysis. **Journal of Supply Chain Management**, Under review after major revisions.
 
-[Impact factor 7.13, JCR Q1, Ranking 24/217]
+[Impact factor 7.13, JCR Q1, Ranking 11/217]
 
 **Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2020) Exploring performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **International Journal of Physical Distribution & Logistics Management**, Under review after major revisions.
 
-[Impact factor 5.21, JCR Q1, Ranking 11/217]
+[Impact factor 5.21, JCR Q1, Ranking 24/217]
 
 **Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. **Journal of Operations Management**, Under review.
 
