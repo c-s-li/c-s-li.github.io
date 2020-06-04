@@ -6,7 +6,6 @@
       <p><b>Department of Decision Sciences</b></p>
       <p><b>School of Business</b></p>
       <p><b>Macau University of Science and Technology</b></p>
-      <p><b>Email: csli AT must DOT edu DOT mo</b></p>
   </tr>
 </table>
 
