@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-[Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)　　
+<!--[Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)　　-->
 
 ## RESEARCH INTERESTS
 
