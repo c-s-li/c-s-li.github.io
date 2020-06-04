@@ -10,9 +10,11 @@
   </tr>
 </table>
 
+[Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)
+
 ## RESEARCH INTERESTS
 
-Supply chain and operations management, supply chain analytics, business analytics, social network analytics, data analytics
+Supply Chain and Operations Management, Supply Chain Analytics, Business analytics, Social Network Analytics, Data Analytics
 
 ## RECRUITMENT
 We am looking for highly motivated **Research Associate/Assistant** and Postgraduate (**PhD/MPhil**) students with strong background in Computer Science, Business Analytics, Supply Chain Management, and Operations Management. **Undergraduate** students who are interested in my research are also welcome to join us.
@@ -87,3 +89,6 @@ BBAZ16011 Business Statistics / Macau University of Science and Technology
 
 ITC2019M Management Principles in Fashion Business / The Hong Kong Polytechnic University
 
+## HOBBIES
+
+Badminton, Cycling, Diving, Gardening, Hiking, Movie, Music, Photography, Reading, Swimming, Travelling, etc.
