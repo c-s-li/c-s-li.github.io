@@ -35,7 +35,7 @@ We am looking for highly motivated **Research Associate/Assistant** and Postgrad
 
 ### Dissertation
 
-**Li, C.S.** (2020). Supply chain resilience: Scale development and its performance impact under different business conditions and disruptions. Doctoral dissertation, The Hong Kong Polytechnic University.
+**Li, C.S.** (2020). Supply chain resilience: Scale development and its performance impact under different business conditions and disruptions. Doctoral Dissertation, The Hong Kong Polytechnic University.
 
 ### Journal Papers - Published
 
