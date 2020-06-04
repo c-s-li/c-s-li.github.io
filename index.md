@@ -35,7 +35,7 @@ We am looking for highly motivated **Research Associate/Assistant** and Postgrad
 
 ### Dissertation
 
-**Li, C.S.** (2020). Supply chain resilience: scale development and its performance impact under different business conditions and disruptions. Doctoral dissertation, The Hong Kong Polytechnic University.
+**Li, C.S.** (2020). Supply chain resilience: Scale development and its performance impact under different business conditions and disruptions. Doctoral dissertation, The Hong Kong Polytechnic University.
 
 ### Journal Papers - Published
 
@@ -45,7 +45,7 @@ We am looking for highly motivated **Research Associate/Assistant** and Postgrad
 
 ### Journal Papers - Submitted
 
-**Li, C.S.**, & Wong, C.W.Y.* (2020) Impact of supply chain resilience on firm performance: a meta-analysis. **Journal of Supply Chain Management**, Under review after major revisions.
+**Li, C.S.**, & Wong, C.W.Y.* (2020) Impact of supply chain resilience on firm performance: A meta-analysis. **Journal of Supply Chain Management**, Under review after major revisions.
 
 [Impact factor 7.13, JCR Q1, Ranking 11/217]
 
