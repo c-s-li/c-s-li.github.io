@@ -6,10 +6,11 @@
       <p><b>Department of Decision Sciences</b></p>
       <p><b>School of Business</b></p>
       <p><b>Macau University of Science and Technology</b></p>
+      <p><b>Email: csli AT must DOT edu DOT mo</b></p>
   </tr>
 </table>
 
-[Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)　　[Email](csli@must.edu.mo)
+[Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)　　
 
 ## RESEARCH INTERESTS
 
