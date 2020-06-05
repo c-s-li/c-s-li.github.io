@@ -67,7 +67,7 @@ We am looking for highly motivated **Research Associate/Assistant** and Postgrad
 
 **Li, C.S.**, & Wong, C.W.Y.* (2016) Fashion supply chain resilience: Construct development and measurement validation. Textile Summit and Postgraduate Student Conference 2016, Hong Kong.
 
-* Corresponding author
+Note: * Corresponding author
 
 ## SERVICES
 
