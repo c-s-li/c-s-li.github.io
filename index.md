@@ -67,6 +67,8 @@ We am looking for highly motivated **Research Associate/Assistant** and Postgrad
 
 **Li, C.S.**, & Wong, C.W.Y.* (2016) Fashion supply chain resilience: Construct development and measurement validation. Textile Summit and Postgraduate Student Conference 2016, Hong Kong.
 
+* Corresponding author
+
 ## SERVICES
 
 Reviewer - **International Journal of Production Economics** [Impact factor 5.21, JCR Q1, Ranking 4/84].
@@ -80,6 +82,16 @@ Session Chair - Production and Operations Management Society (POMS) 30th Annual 
 Session Chair - Textile Summit and Postgraduate Student Conference, Hong Kong.
 
 ## TEACHING
+
+Master/PhD Supervision / Macau University of Science and Technology
+
+Dissertation Supervision in Supply Chain Management / Macau University of Science and Technology
+
+Dissertation Supervision in Business Analytics / Macau University of Science and Technology
+
+Academic Advisor in Supply Chain Management / Macau University of Science and Technology
+
+Training Advisor in International Competition / Macau University of Science and Technology
 
 BBAZ16604 Decision Analysis in Business / Macau University of Science and Technology
 
