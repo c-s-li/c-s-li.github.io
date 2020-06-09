@@ -93,6 +93,8 @@ Academic Advisor in Supply Chain Management / Macau University of Science and Te
 
 Training Advisor in International Competition / Macau University of Science and Technology
 
+MBGZ01 Global Operations and Supply Chain Management / Macau University of Science and Technology
+
 BBAZ16604 Decision Analysis in Business / Macau University of Science and Technology
 
 BBAZ16504 Decision Making Methods / Macau University of Science and Technology
