@@ -10,11 +10,15 @@
   </tr>
 </table>
 
-<!--[Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)　　-->
+## LINKS
+
+[Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)　　
+
+[Macau University of Science and Technology Personal Page](https://www.must.edu.mo/images/MSB/files/LiChunSheng_EN_v200226.pdf)
 
 ## RESEARCH INTERESTS
 
-Supply Chain and Operations Management, Supply Chain Analytics, Business analytics, Social Network Analytics, Data Analytics
+Supply Chain and Operations Management, Supply Chain Analytics, Business analytics, Network Analytics, Data Analytics
 
 ## RECRUITMENT
 We am looking for highly motivated **Research Associate/Assistant** and Postgraduate (**PhD/MPhil**) students with strong background in Computer Science, Business Analytics, Supply Chain Management, and Operations Management. **Undergraduate** students who are interested in my research are also welcome to join us.
@@ -93,15 +97,15 @@ Academic Advisor in Supply Chain Management / Macau University of Science and Te
 
 Training Advisor in International Competition / Macau University of Science and Technology
 
-MBGZ01 Global Operations and Supply Chain Management / Macau University of Science and Technology
+MBGZ01 Global Operations and Supply Chain Management / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
 
-BBAZ16604 Decision Analysis in Business / Macau University of Science and Technology
+BBAZ16604 Decision Analysis in Business / Compulsory Course for Bachelor of Business Analytics / Macau University of Science and Technology
 
-BBAZ16504 Decision Making Methods / Macau University of Science and Technology
+BBAZ16504 Decision Making Methods / Compulsory Course for Bachelor of Supply Chain Management / Macau University of Science and Technology
 
-BBAZ16011 Business Statistics / Macau University of Science and Technology
+BBAZ16011 Business Statistics / Compulsory Course for Bachelor of Business Administration / Macau University of Science and Technology
 
-ITC2019M Management Principles in Fashion Business / The Hong Kong Polytechnic University
+ITC2019M Management Principles in Fashion Business / Compulsory Course for Bachelor of Fashion Business / The Hong Kong Polytechnic University
 
 ## HOBBIES
 
