@@ -45,21 +45,25 @@ We am looking for highly motivated **Research Associate/Assistant** and Postgrad
 
 **Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) Value of supply chain resilience: Roles of culture, flexibility, and integration. **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
 
-[Impact factor 5.21, JCR Q1, Ranking 24/217]
+[SSCI, Impact factor 4.744, JCR Q1, Ranking 36/226]
 
-### Journal Papers - Submitted
+### Journal Papers - Submitted 
 
-**Li, C.S.**, & Wong, C.W.Y.* (2020) Impact of supply chain resilience on firm performance: A meta-analysis. **Journal of Supply Chain Management**, Under review after major revisions.
+**Li, C.S.**, & Wong, C.W.Y.* (2020) Impact of supply chain resilience on firm performance: A meta-analysis. **Journal of Supply Chain Management**, Under 2nd round review.
 
-[Impact factor 7.13, JCR Q1, Ranking 11/217]
+[SSCI, Impact factor 6.842, JCR Q1, Ranking 10/226]
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2020) Exploring performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **International Journal of Physical Distribution & Logistics Management**, Under review after major revisions.
+Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.
 
-[Impact factor 5.21, JCR Q1, Ranking 24/217]
+[Listed in UTD 24 Journals, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]
 
-**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. **Journal of Operations Management**, Under review.
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2020) Exploring performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **Transportation Research Part E: Logistics and Transportation Review**, Under review.
 
-[Impact factor 7.78, JCR Q1, Ranking 1/84]
+[SCIE, Impact factor 4.690, JCR Q1, Ranking 7/134]
+
+<!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.
+
+<!--[Listed in UTD 24 Journals, SCIE, Impact factor 4.673, JCR Q1, Ranking 10/83]
 
 ### Conference Papers/Presentations
 
@@ -75,11 +79,11 @@ Note: * Corresponding author
 
 ## SERVICES
 
-Reviewer - **International Journal of Production Economics** [Impact factor 5.21, JCR Q1, Ranking 4/84].
+Reviewer - **International Journal of Production Economics** [SCIE, Impact factor 5.134, JCR Q1, Ranking 4/83].
 
-Reviewer - **Transportation Research Part E: Logistics and Transportation Review** [Impact factor 4.25, JCR Q1, Ranking 8/84].
+Reviewer - **Transportation Research Part E: Logistics and Transportation Review** [SCIE, Impact factor 4.690, JCR Q1, Ranking 7/134].
 
-Reviewer - **International Journal of Physical Distribution and Logistics Management** [Impact factor 5.21, JCR Q1, Ranking 24/217].
+Reviewer - **International Journal of Physical Distribution and Logistics Management** [SSCI, Impact factor 4.744, JCR Q1, Ranking 36/226].
 
 Member - Production and Operations Management Society
 
@@ -87,7 +91,7 @@ Member - European Operations Management Association
 
 Session Chair - Production and Operations Management Society (POMS) 30th Annual Conference (2019), Washington D.C.
 
-Session Chair - Textile Summit and Postgraduate Student Conference, Hong Kong.
+Session Chair - Textile Summit and Postgraduate Student Conference (2016), Hong Kong.
 
 ## TEACHING
 
@@ -115,7 +119,7 @@ ITC2019M Management Principles in Fashion Business / Compulsory Course for Bache
 
 Badminton, Cycling, Diving, Gardening, Hiking, Movie, Music, Photography, Reading, Swimming, Travelling, Writing, etc.
 
-## [WeChat Public Account](https://mp.weixin.qq.com/s?__biz=MzI5NjQwNzkwNg==&mid=100000007&idx=1&sn=df626e102e862af7100a844c7863d02a&chksm=6c45870a5b320e1c93b2eacf1971b50f8d6e3e5d5aae4124666b1233c3e52bfc2aecc72cbcdd&scene=18&xtrack=1&key=110bbf874cc193e9d72457ca7bf887e691039b4eb4ae3d3e0218cd6d462f556f8b87c2541aad19c64eebd333174d3f9efe18bfe290c8cc60f6dcfa3c39ed1dd58cc600c64da9b9f3ad8546b1ea144fc7&ascene=1&uin=MjMzOTIxMTE0MQ%3D%3D&devicetype=Windows+10&version=62070155&lang=zh_CN&exportkey=AVeMLXScXcOezwFu2e37ukk%3D&pass_ticket=rapqCHprj4se3VQZ9hj8EFkIPVips2%2F1%2F%2BouryVkQuR6jesnecbUNLsLgWFFGDDi) in Chinese
+## [Zhihu](https://zhuanlan.zhihu.com/c_1259986886690570240) and [WeChat](https://mp.weixin.qq.com/s?__biz=MzI5NjQwNzkwNg==&mid=100000007&idx=1&sn=df626e102e862af7100a844c7863d02a&chksm=6c45870a5b320e1c93b2eacf1971b50f8d6e3e5d5aae4124666b1233c3e52bfc2aecc72cbcdd&scene=18&xtrack=1&key=110bbf874cc193e9d72457ca7bf887e691039b4eb4ae3d3e0218cd6d462f556f8b87c2541aad19c64eebd333174d3f9efe18bfe290c8cc60f6dcfa3c39ed1dd58cc600c64da9b9f3ad8546b1ea144fc7&ascene=1&uin=MjMzOTIxMTE0MQ%3D%3D&devicetype=Windows+10&version=62070155&lang=zh_CN&exportkey=AVeMLXScXcOezwFu2e37ukk%3D&pass_ticket=rapqCHprj4se3VQZ9hj8EFkIPVips2%2F1%2F%2BouryVkQuR6jesnecbUNLsLgWFFGDDi) Public Account in Chinese
 
 **↓↓↓↓↓↓** Scan to **follow**, share, and [contribute](https://mp.weixin.qq.com/s?__biz=MzI5NjQwNzkwNg==&mid=100000015&idx=1&sn=8a828d29e299875b1b4857ec7f7f1589&chksm=6c4587025b320e14fd3073328e261e030e0d322d5bc4a88a042dcff351c7da77ce39790385ab&scene=18&xtrack=1&key=110bbf874cc193e911ae8c7bb8685d943a6e7b9df2145500e07fb4f82ac9510f1bccfd05e52d78da23e14dae773ebb5c1b7a1b553a8e39facc3ae17e0d79d9121bd595fe0bed009bd36e5558bc48fe5b&ascene=1&uin=MjMzOTIxMTE0MQ%3D%3D&devicetype=Windows+10&version=62070155&lang=zh_CN&exportkey=AS3g0HMhFWyJnsjPijhW1wg%3D&pass_ticket=rapqCHprj4se3VQZ9hj8EFkIPVips2%2F1%2F%2BouryVkQuR6jesnecbUNLsLgWFFGDDi)! 
 
