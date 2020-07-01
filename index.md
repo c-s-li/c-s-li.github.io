@@ -55,7 +55,7 @@ We am looking for highly motivated **Research Associate/Assistant** and Postgrad
 
 Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.
 
-[Listed in UTD 24 Journals, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]
+[UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]
 
 **Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2020) Exploring performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **Transportation Research Part E: Logistics and Transportation Review**, Under review.
 
@@ -63,7 +63,7 @@ Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of 
 
 <!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.-->
 
-<!--[Listed in UTD 24 Journals, SCIE, Impact factor 4.673, JCR Q1, Ranking 10/83]-->
+<!--[UTD 24, SCIE, Impact factor 4.673, JCR Q1, Ranking 10/83]-->
 
 ### Conference Papers/Presentations
 
