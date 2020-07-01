@@ -61,9 +61,9 @@ Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of 
 
 [SCIE, Impact factor 4.690, JCR Q1, Ranking 7/134]
 
-<!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.
+<!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.-->
 
-<!--[Listed in UTD 24 Journals, SCIE, Impact factor 4.673, JCR Q1, Ranking 10/83]
+<!--[Listed in UTD 24 Journals, SCIE, Impact factor 4.673, JCR Q1, Ranking 10/83]-->
 
 ### Conference Papers/Presentations
 
