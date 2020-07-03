@@ -25,11 +25,11 @@ We am looking for highly motivated **Research Associate/Assistant** and Postgrad
 
 ## ACADEMIC QUALIFICATIONS
 
-2015 - 2019 PhD / The Hong Kong Polytechnic University
+PhD / The Hong Kong Polytechnic University
 
-2014 - 2015 MA (Distinction) / The Hong Kong Polytechnic University
+MA (Distinction) / The Hong Kong Polytechnic University
 
-2006 - 2010 BEng / Jiangnan University
+BEng / Jiangnan University
 
 ## INDUSTRIAL EXPERIENCE
 
