@@ -12,9 +12,9 @@
 
 ## LINKS
 
-[Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)　　
+[Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)　　[Google Homepage](https://sites.google.com/view/c-s-li/)
 
-[Macau University of Science and Technology Personal Page](https://www.must.edu.mo/images/MSB/files/LiChunSheng_EN_v200226.pdf)
+[Macau University of Science and Technology Homepage](https://www.must.edu.mo/images/MSB/files/LiChunSheng_EN_v200226.pdf)
 
 ## RESEARCH INTERESTS
 
