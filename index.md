@@ -57,7 +57,7 @@ Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of 
 
 [UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2020) Exploring performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **Journal of Purchasing and Supply Management**, Under review.
+Wong, C.W.Y., Wong, C.Y., Boon-itt, S., Miao, X., & **Li, C.S.*** (2020) Exploring performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **Journal of Purchasing and Supply Management**, Under review.
 
 [SCIE, Impact factor 4.640, JCR Q1, Ranking 42/226]
 
