@@ -125,21 +125,21 @@ ITC2019M Management Principles in Fashion Business / Compulsory Course for Bache
 
 ## SELECTED OUTSTANDING STUDENTS
 
-**Peng, Y...**
+**Peng, Y... (Bachelor of Business Analytics)**
 
 Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. Submitted to the **Journal of Business Research**, Under review.
 
 [SCIE, Impact factor 4.874, JCR Q1, Ranking 29/152]
 
-**Yu, J...**
+**Yu, J... (Bachelor of Supply Chain Management)**
 
 Consumption impulse determination: The roles of internet celebrity endorsement and peer pressure in the expectation-confirmation model. Under preparation.
 
-**Cheng, G...**
+**Cheng, G... (Master of Business Analytics)**
 
 ISO 50001 certification and cost management in manufacturing industries. Under preparation.
 
-**Xu, M...**
+**Xu, M... (Master of Management Studies)**
 
 Evaluation of the effectiveness of live streaming e-commerce in fashion retailing. Under preparation.
 
