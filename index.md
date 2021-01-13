@@ -49,17 +49,25 @@ BEng / Jiangnan University
 
 ### Journal Papers - Submitted 
 
-**Li, C.S.**, & Wong, C.W.Y.* (2020) Impact of supply chain resilience on firm performance: A meta-analysis. **Journal of Supply Chain Management**, Under 2nd round review.
+<!--**Li, C.S.**, & Wong, C.W.Y.* (2020) Impact of supply chain resilience on firm performance: A meta-analysis. **Journal of Supply Chain Management**, Under 2nd round review.-->
 
-[SSCI, Impact factor 6.842, JCR Q1, Ranking 10/226]
+<!--[SSCI, Impact factor 6.842, JCR Q1, Ranking 10/226]-->
 
-Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.
+<!--Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.
 
-[UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]
+<!--[UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]
 
-Wong, C.W.Y., Wong, C.Y., Boon-itt, S., Miao, X., & **Li, C.S.*** (2020) Exploring performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **Journal of Purchasing and Supply Management**, Under review.
+**Li, C.S.**, Ki, C.W.* , Chong, S.M. & Peng, Y.Y. (2021) Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. **Journal of Business Research**, Under review.
 
-[SCIE, Impact factor 4.640, JCR Q1, Ranking 42/226]
+[SCIE, Impact factor 4.874, JCR Q1, Ranking 29/152]
+
+Liang, Y.Y., **Li, C.S.**, Fan, J.J., & Xu, M.Z. (2021) Robust Bi-Orthogonal Projection Learning for dimensionality reduction. **IEEE Transactions on Circuits and Systems for Video Technology**, Under review.
+
+[SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]
+
+Wong, C.W.Y., Wong, C.Y., Boon-itt, S., Miao, X., & **Li, C.S.*** (2021) Exploring performance effects of supply chain resilience: Systematic literature review and future research directions. **International Journal of Logistics Management**, Under review.
+
+[SCIE, Impact factor 3.325, JCR Q2, Ranking 79/226]
 
 <!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.-->
 
@@ -114,6 +122,21 @@ BBAZ16504 Decision Making Methods / Compulsory Course for Bachelor of Supply Cha
 BBAZ16011 Business Statistics / Compulsory Course for Bachelor of Business Administration / Macau University of Science and Technology
 
 ITC2019M Management Principles in Fashion Business / Compulsory Course for Bachelor of Fashion Business / The Hong Kong Polytechnic University
+
+## SELECTED OUTSTANDING STUDENTS
+
+**Peng, Y...**
+Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. Submitted to the **Journal of Business Research**, Under review.
+[SCIE, Impact factor 4.874, JCR Q1, Ranking 29/152]
+
+**Yu, J...**
+Consumption impulse determination: The roles of internet celebrity endorsement and peer pressure in the expectation-confirmation model. Under preparation.
+
+**Cheng, G...**
+ISO 50001 certification and cost management in manufacturing industries. Under preparation.
+
+**Xu, M...**
+Evaluation of the effectiveness of live streaming e-commerce in fashion retailing. Under preparation.
 
 ## HOBBIES
 
