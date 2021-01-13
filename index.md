@@ -57,7 +57,7 @@ BEng / Jiangnan University
 
 <!--[UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]-->
 
-**Li, C.S.**, Ki, C.W.* , Chong, S.M. & Peng, Y.Y. (2021) Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. **Journal of Business Research**, Under review.
+**Li, C.S.**, Ki, C.W.* , Chong, S.M., & Peng, Y.Y. (2021) Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. **Journal of Business Research**, Under review.
 
 [SCIE, Impact factor 4.874, JCR Q1, Ranking 29/152]
 
@@ -126,16 +126,21 @@ ITC2019M Management Principles in Fashion Business / Compulsory Course for Bache
 ## SELECTED OUTSTANDING STUDENTS
 
 **Peng, Y...**
+
 Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. Submitted to the **Journal of Business Research**, Under review.
+
 [SCIE, Impact factor 4.874, JCR Q1, Ranking 29/152]
 
 **Yu, J...**
+
 Consumption impulse determination: The roles of internet celebrity endorsement and peer pressure in the expectation-confirmation model. Under preparation.
 
 **Cheng, G...**
+
 ISO 50001 certification and cost management in manufacturing industries. Under preparation.
 
 **Xu, M...**
+
 Evaluation of the effectiveness of live streaming e-commerce in fashion retailing. Under preparation.
 
 ## HOBBIES
