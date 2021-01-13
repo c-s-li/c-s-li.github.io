@@ -53,9 +53,9 @@ BEng / Jiangnan University
 
 <!--[SSCI, Impact factor 6.842, JCR Q1, Ranking 10/226]-->
 
-<!--Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.
+<!--Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.-->
 
-<!--[UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]
+<!--[UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]-->
 
 **Li, C.S.**, Ki, C.W.* , Chong, S.M. & Peng, Y.Y. (2021) Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. **Journal of Business Research**, Under review.
 
