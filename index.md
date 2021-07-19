@@ -18,7 +18,7 @@
 
 ## RESEARCH INTERESTS
 
-Supply Chain and Operations Management, Consumer and Organizational Behavior, Supply Chain Analytics, Business Analytics, Network Analytics, Data Analytics
+Supply Chain and Operations Management, Consumer and Organizational Behavior, Business Analytics, Network Analytics, Data Sciences
 
 ## RECRUITMENT
 We are looking for highly motivated **Research Associate/Assistant** and Postgraduate (**PhD/MPhil**) students with strong background in Computer Science, Business Analytics, Supply Chain Management, and Operations Management. **Undergraduate** students who are interested in our research are also welcome to join us.
@@ -45,37 +45,45 @@ BEng / Jiangnan University
 
 **Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) Value of supply chain resilience: Roles of culture, flexibility, and integration. **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
 
-[SSCI, Impact factor 4.744, JCR Q1, Ranking 36/226]
+[SSCI, Impact factor 6.31, JCR Q1]
 
 ### Journal Papers - Submitted 
 
-<!--**Li, C.S.**, & Wong, C.W.Y.* (2020) Impact of supply chain resilience on firm performance: A meta-analysis. **Journal of Supply Chain Management**, Under 2nd round review.-->
+<**Li, C.S.**, & Wong, C.W.Y.* (2021) Supply chain resilience and performance: A meta-analysis. **Decision Sciences**, Under review.
 
-<!--[SSCI, Impact factor 6.842, JCR Q1, Ranking 10/226]-->
+[SSCI, Impact factor 4.15, Top journal in Decision Sciences]
 
-<!--Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.-->
+<!--Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.
 
-<!--[UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]-->
+[UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]-->
 
-**Li, C.S.**, Ki, C.W.* , Chong, S.M., & Peng, Y.Y. (2021) Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. **Journal of Business Research**, Under review.
+<!--**Li, C.S.**, Ki, C.W.* , Chong, S.M., & Peng, Y.Y. (2021) Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. **Journal of Business Research**, Under review.
 
-[SCIE, Impact factor 4.874, JCR Q1, Ranking 29/152]
+[SCIE, Impact factor 7.14, JCR Q1, Ranking 32/153]-->
 
-Liang, Y.Y., **Li, C.S.**, Fan, J.J., & Xu, M.Z. (2021) Robust Bi-Orthogonal Projection Learning for dimensionality reduction. **IEEE Transactions on Circuits and Systems for Video Technology**, Under review.
+Ki, C.W., Chow, T.C., Chen, B.W., & **Li, C.S.*** (2021) Consumers’ ambivalence in the social media influencer (SMI) landscape: How SMIs can maintain trust and assuage their audience’s growing skepticism of influencer marketing. **Journal of Retailing and Consumer Services**, Under review.
 
-[SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]
+[SCIE, Impact factor 7.14, JCR Q1, Ranking 32/153]
 
-Wong, C.W.Y., Wong, C.Y., Boon-itt, S., Miao, X., & **Li, C.S.*** (2021) Exploring performance effects of supply chain resilience: Systematic literature review and future research directions. **International Journal of Logistics Management**, Under review.
+<!--Liang, Y.Y., **Li, C.S.**, Fan, J.J., & Xu, M.Z. (2021) Robust Bi-Orthogonal Projection Learning for dimensionality reduction. **IEEE Transactions on Circuits and Systems for Video Technology**, Under review.
 
-[SCIE, Impact factor 3.325, JCR Q2, Ranking 79/226]
+[SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]-->
 
-<!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.-->
+<!--Wong, C.W.Y., Wong, C.Y., Boon-itt, S., Miao, X., & **Li, C.S.*** (2021) Exploring performance effects of supply chain resilience: Systematic literature review and future research directions. **International Journal of Logistics Management**, Under review.
 
-<!--[UTD 24, SCIE, Impact factor 4.673, JCR Q1, Ranking 10/83]-->
+[SCIE, Impact factor 3.325, JCR Q2, Ranking 79/226]-->
+
+<!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.
+
+[UTD 24, SCIE, Impact factor 4.673, JCR Q1, Ranking 10/83]-->
 
 ### Conference Papers/Presentations
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., & Boon-itt, S. (2019) Supply chain resilience: Theoretical construct and measurement development. POMS 30th Annual Conference (POMS 2019), Washington D.C.
+Peng, Y.Y., Xu, M.H., Cheng, G.W., & **Li, C.S.*** (2021) Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. **POMS 31st Annual Conference (POMS 2021)**, online.
+
+Cheng, G.W., Xu, M.Z., Peng, Y.Y., & **Li, C.S.*** (2021) ISO 50001 implementation and cost management in manufacturing industries. **POMS 31st Annual Conference (POMS 2021)**, online. 
+
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., & Boon-itt, S. (2019) Supply chain resilience: Theoretical construct and measurement development. **POMS 30th Annual Conference (POMS 2019)**, Washington D.C.
 
 **Li, C.S.**, Wong, C.W.Y., Shang, G.K.C., Yang, C.C., & Lirn, T.T.C.* (2017) Supply chain resilience: Roles of collaboration in supply chain. 22nd International Symposium on Logistics (ISL 2017), Ljubljana.
 
@@ -87,11 +95,13 @@ Note: * Corresponding author
 
 ## SERVICES
 
-Reviewer - **International Journal of Production Economics** [SCIE, Impact factor 5.134, JCR Q1, Ranking 4/83].
+Reviewer - **International Journal of Production Economics** [SCIE, Impact factor 7.89, JCR Q1, Ranking 3/84].
 
-Reviewer - **Transportation Research Part E: Logistics and Transportation Review** [SCIE, Impact factor 4.690, JCR Q1, Ranking 7/134].
+Reviewer - **International Journal of Production Research** [SCIE, Impact factor 8.57, JCR Q1, Ranking 2/84].
 
-Reviewer - **International Journal of Physical Distribution and Logistics Management** [SSCI, Impact factor 4.744, JCR Q1, Ranking 36/226].
+Reviewer - **Transportation Research Part E: Logistics and Transportation Review** [SCIE, Impact factor 6.88, JCR Q1, Ranking 3/136].
+
+Reviewer - **International Journal of Physical Distribution and Logistics Management** [SSCI, Impact factor 6.31, JCR Q1].
 
 Member - Production and Operations Management Society
 
@@ -115,6 +125,8 @@ Training Advisor in International Competition / Macau University of Science and 
 
 MBGZ01 Global Operations and Supply Chain Management / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
 
+MBGZ04 Empirical Analysis in Supply Chain Management / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
+
 BBAZ16604 Decision Analysis in Business / Compulsory Course for Bachelor of Business Analytics / Macau University of Science and Technology
 
 BBAZ16504 Decision Making Methods / Compulsory Course for Bachelor of Supply Chain Management / Macau University of Science and Technology
@@ -125,23 +137,23 @@ ITC2019M Management Principles in Fashion Business / Compulsory Course for Bache
 
 ## SELECTED OUTSTANDING STUDENTS
 
-**Peng, Y... (Bachelor of Business Analytics)**
+**Peng, Y.Y. (Bachelor of Business Analytics)**
 
-Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. Submitted to the **Journal of Business Research**, Under review.
+Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. Submitted and reviewed in the **Journal of Business Research**, Under revision.
 
-[SCIE, Impact factor 4.874, JCR Q1, Ranking 29/152]
+[SCIE, Impact factor 7.55, JCR Q1, Ranking 28/153]
 
-**Yu, J... (Bachelor of Supply Chain Management)**
+**Yu, J.R.X. (Bachelor of Supply Chain Management)**
 
 Consumption impulse determination: The roles of internet celebrity endorsement and peer pressure in the expectation-confirmation model. Under preparation.
 
-**Cheng, G... (Master of Business Analytics)**
+**Cheng, G.W. (Master of Business Analytics)**
 
-ISO 50001 certification and cost management in manufacturing industries. Under preparation.
+ISO 50001 implementation and cost management in manufacturing industries. **POMS 31st Annual Conference (POMS 2021)**, online.
 
-**Xu, M... (Master of Management Studies)**
+**Xu, M.H. (Master of Management Studies)**
 
-Evaluation of the effectiveness of live streaming e-commerce in fashion retailing. Under preparation.
+Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. **POMS 31st Annual Conference (POMS 2021)**, online.
 
 ## HOBBIES
 
