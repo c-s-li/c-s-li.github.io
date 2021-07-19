@@ -49,7 +49,7 @@ BEng / Jiangnan University
 
 ### Journal Papers - Submitted 
 
-<**Li, C.S.**, & Wong, C.W.Y.* (2021) Supply chain resilience and performance: A meta-analysis. **Decision Sciences**, Under review.
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., & Boon-itt, S. (2021) Supply chain resilience and performance: A meta-analysis. **Decision Sciences**, Under review.
 
 [SSCI, Impact factor 4.15, Top journal in Decision Sciences]
 
