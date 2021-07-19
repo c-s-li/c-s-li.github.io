@@ -31,6 +31,13 @@ MA (Distinction) / The Hong Kong Polytechnic University
 
 BEng / Jiangnan University
 
+
+## PROFESSIONAL QUALIFICATIONS
+
+Software Test Engineer (STE)
+
+Certified Public Procurement Master (CPPM)
+
 ## INDUSTRIAL EXPERIENCE
 
 2010 - 2014 Manager / International Trading Department / New Forest Group (HK)
@@ -51,7 +58,7 @@ BEng / Jiangnan University
 
 **Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., & Boon-itt, S. (2021) Supply chain resilience and performance: A meta-analysis. **Decision Sciences**, Under review.
 
-[SSCI, Impact factor 4.15, **Top Journal in Decision Sciences**]
+[SSCI, Impact factor 4.15, **Top Journal in Decision Science**]
 
 <!--Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.
 
@@ -139,7 +146,7 @@ ITC2019M Management Principles in Fashion Business / Compulsory Course for Bache
 
 **Peng, Y.Y. (Bachelor of Business Analytics)**
 
-Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. Submitted and reviewed in the **Journal of Business Research**, Under revision.
+Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. Reviewed in the **Journal of Business Research**, Under revision.
 
 [SCIE, Impact factor **7.55**, JCR Q1, Ranking 28/153]
 
@@ -153,11 +160,11 @@ Consumption impulse determination: The roles of internet celebrity endorsement a
 
 **Cheng, G.W. (Master of Business Analytics)**
 
-ISO 50001 implementation and cost management in manufacturing industries. Presented in **POMS 31st Annual Conference (POMS 2021)**, online.
+ISO 50001 implementation and cost management in manufacturing industries. Presented in **POMS 31st Annual Conference (POMS 2021)**.
 
 **Xu, M.H. (Master of Management Studies)**
 
-Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. Presented in **POMS 31st Annual Conference (POMS 2021)**, online.
+Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. Presented in **POMS 31st Annual Conference (POMS 2021)**.
 
 ## HOBBIES
 
