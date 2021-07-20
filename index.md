@@ -38,10 +38,6 @@ Software Test Engineer (STE)
 
 Certified Public Procurement Master (CPPM)
 
-## INDUSTRIAL EXPERIENCE
-
-2010 - 2014 Manager / International Trading Department / New Forest Group (HK)
-
 ## PUBLICATIONS
 
 ### Dissertation
