@@ -64,9 +64,9 @@ Certified Public Procurement Master (CPPM)
 
 [SCIE, Impact factor 7.14, JCR Q1, Ranking 32/153]-->
 
-Ki, C.W., Chow, T.C., Chen, B.W., & **Li, C.S.*** (2021) Consumers’ ambivalence in the social media influencer (SMI) landscape: How SMIs can maintain trust and assuage their audience’s growing skepticism of influencer marketing. **Journal of Retailing and Consumer Services**, Under review.
+Ki, C.W., Chow, T.C., Chen, B.W., & **Li, C.S.*** (2021) Consumers’ ambivalence in the social media influencer (SMI) landscape: How SMIs can maintain trust and assuage their audience’s growing skepticism of influencer marketing. **Journal of Research in Interactive Marketing**, Under review.
 
-[SCIE, Impact factor **7.14**, JCR Q1, Ranking 32/153]
+[SCIE, Impact factor **4.02**]
 
 <!--Liang, Y.Y., **Li, C.S.**, Fan, J.J., & Xu, M.Z. (2021) Robust Bi-Orthogonal Projection Learning for dimensionality reduction. **IEEE Transactions on Circuits and Systems for Video Technology**, Under review.
 
