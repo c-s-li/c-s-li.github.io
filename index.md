@@ -66,15 +66,15 @@ Certified Public Procurement Master (CPPM)
 
 Ki, C.W., Chow, T.C., Chen, B.W., & **Li, C.S.*** (2021) Consumers’ ambivalence in the social media influencer (SMI) landscape: How SMIs can maintain trust and assuage their audience’s growing skepticism of influencer marketing. **Journal of Research in Interactive Marketing**, Under review.
 
-[SCIE, Impact factor 4.02]
+[SSCI, Impact factor 4.02]
 
 <!--Liang, Y.Y., **Li, C.S.**, Fan, J.J., & Xu, M.Z. (2021) Robust Bi-Orthogonal Projection Learning for dimensionality reduction. **IEEE Transactions on Circuits and Systems for Video Technology**, Under review.
 
 [SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]-->
 
-<!--Wong, C.W.Y., Wong, C.Y., Boon-itt, S., Miao, X., & **Li, C.S.*** (2021) Exploring performance effects of supply chain resilience: Systematic literature review and future research directions. **International Journal of Logistics Management**, Under review.
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2021) Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **International Journal of Shipping and Transport Logistics**, Under review.
 
-[SCIE, Impact factor 3.325, JCR Q2, Ranking 79/226]-->
+[SSCI]
 
 <!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.
 
