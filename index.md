@@ -4,8 +4,8 @@
   <tr>
       <p><b>Assistant Professor</b></p>
       <p><b>Department of Decision Sciences</b></p>
-      <p><b>School of Business</b></p>
-      <p><b>Macau University of Science and Technology</b></p>
+      <p><b>[School of Business](https://www.must.edu.mo/en/msb)</b></p>
+      <p><b>[Macau University of Science and Technology](https://www.must.edu.mo/en)</b></p>
       <p><b>Email: csli AT must DOT edu DOT mo</b></p>
   </tr>
 </table>
