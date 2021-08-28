@@ -25,11 +25,11 @@ We are looking for highly motivated **Research Associate/Assistant** and Postgra
 
 ## ACADEMIC QUALIFICATIONS
 
-PhD / The Hong Kong Polytechnic University
+PhD / [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
 
-MA (Distinction) / The Hong Kong Polytechnic University
+MA (Distinction) / [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
 
-BEng / Jiangnan University
+BEng / [Jiangnan University](https://english.jiangnan.edu.cn/)
 
 
 ## PROFESSIONAL QUALIFICATIONS
@@ -42,17 +42,17 @@ Certified Public Procurement Master (CPPM)
 
 ### Dissertation
 
-**Li, C.S.** (2020). Supply chain resilience: Scale development and its performance impact under different business conditions and disruptions. Doctoral Dissertation, The Hong Kong Polytechnic University.
+**Li, C.S.** (2020). [Supply chain resilience: Scale development and its performance impact under different business conditions and disruptions](https://theses.lib.polyu.edu.hk/handle/200/10327). Doctoral Dissertation, The Hong Kong Polytechnic University.
 
 ### Journal Papers - Published
 
-**Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) Value of supply chain resilience: Roles of culture, flexibility, and integration. **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
+**Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) [Value of supply chain resilience: Roles of culture, flexibility, and integration](https://www.emerald.com/insight/content/doi/10.1108/IJPDLM-02-2019-0041/full/html). **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
 
 [SSCI, Impact factor **6.31**, JCR Q1]
 
 ### Journal Papers - Submitted 
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., & Boon-itt, S. (2021) Supply chain resilience and performance: A meta-analysis. **Decision Sciences**, Under review.
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., & Boon-itt, S. (2021) Supply chain resilience and performance: A meta-analysis. **[Decision Sciences](https://onlinelibrary.wiley.com/journal/15405915)**, Under review.
 
 [SSCI, Impact factor 4.15, **Top Journal in Decision Science**]
 
@@ -60,11 +60,11 @@ Certified Public Procurement Master (CPPM)
 
 [UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]-->
 
-<!--**Li, C.S.**, Ki, C.W.* , Chong, S.M., & Peng, Y.Y. (2021) Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. **Journal of Business Research**, Under review.
+<!--**Li, C.S.**, Ki, C.W.* , Chong, S.M., & Peng, Y.Y.# (2021) Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. **Journal of Business Research**, Under review.
 
 [SCIE, Impact factor 7.14, JCR Q1, Ranking 32/153]-->
 
-Ki, C.W., Chow, T.C., Chen, B.W., & **Li, C.S.*** (2021) Consumers’ ambivalence in the social media influencer (SMI) landscape: How SMIs can maintain trust and assuage their audience’s growing skepticism of influencer marketing. **Journal of Research in Interactive Marketing**, Under review.
+Ki, C.W., Chow, T.C., Chen, B.W., & **Li, C.S.*** (2021) Consumers’ ambivalence in the social media influencer (SMI) landscape: How SMIs can maintain trust and assuage their audience’s growing skepticism of influencer marketing. **[Journal of Research in Interactive Marketing](https://www.emerald.com/insight/publication/issn/2040-7122)**, Under review.
 
 [SSCI, Impact factor 4.02]
 
@@ -72,7 +72,7 @@ Ki, C.W., Chow, T.C., Chen, B.W., & **Li, C.S.*** (2021) Consumers’ ambivalenc
 
 [SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]-->
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2021) Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **International Journal of Shipping and Transport Logistics**, Under review.
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2021) Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **[International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)**, Under review.
 
 [SSCI]
 
@@ -82,11 +82,11 @@ Ki, C.W., Chow, T.C., Chen, B.W., & **Li, C.S.*** (2021) Consumers’ ambivalenc
 
 ### Conference Papers/Presentations
 
-Peng, Y.Y., Xu, M.H., Cheng, G.W., & **Li, C.S.*** (2021) Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. **POMS 31st Annual Conference (POMS 2021)**, online.
+Peng, Y.Y.#, Xu, M.H.#, Cheng, G.W.#, & **Li, C.S.*** (2021) Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. **[POMS 31st Annual Conference (POMS 2021)](https://pomsmeetings.org/conf-2021/index.html)**, Virtual.
 
-Cheng, G.W., Xu, M.Z., Peng, Y.Y., & **Li, C.S.*** (2021) ISO 50001 implementation and cost management in manufacturing industries. **POMS 31st Annual Conference (POMS 2021)**, online. 
+Cheng, G.W.#, Xu, M.Z., Peng, Y.Y.#, & **Li, C.S.*** (2021) ISO 50001 implementation and cost management in manufacturing industries. **[POMS 31st Annual Conference (POMS 2021)](https://pomsmeetings.org/conf-2021/index.html)**, Virtual. 
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., & Boon-itt, S. (2019) Supply chain resilience: Theoretical construct and measurement development. **POMS 30th Annual Conference (POMS 2019)**, Washington D.C.
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., & Boon-itt, S. (2019) Supply chain resilience: Theoretical construct and measurement development. **[POMS 30th Annual Conference (POMS 2019)](https://pomsmeetings.org/conf-2019/)**, Washington D.C.
 
 **Li, C.S.**, Wong, C.W.Y., Shang, G.K.C., Yang, C.C., & Lirn, T.T.C.* (2017) Supply chain resilience: Roles of collaboration in supply chain. 22nd International Symposium on Logistics (ISL 2017), Ljubljana.
 
@@ -94,17 +94,17 @@ Cheng, G.W., Xu, M.Z., Peng, Y.Y., & **Li, C.S.*** (2021) ISO 50001 implementati
 
 **Li, C.S.**, & Wong, C.W.Y.* (2016) Fashion supply chain resilience: Construct development and measurement validation. Textile Summit and Postgraduate Student Conference 2016, Hong Kong.
 
-Note: * Corresponding author
+Note: * Corresponding author; # Students under Supervision
 
 ## SERVICES
 
-Reviewer - **International Journal of Production Economics** [SCIE, Impact factor **7.89**, JCR Q1, Ranking 3/84].
+Reviewer - **[International Journal of Production Economics](https://www.journals.elsevier.com/international-journal-of-production-economics)** [SCIE, Impact factor **7.89**, JCR Q1, Ranking 3/84].
 
-Reviewer - **International Journal of Production Research** [SCIE, Impact factor **8.57**, JCR Q1, Ranking 2/84].
+Reviewer - **[International Journal of Production Research](https://www.tandfonline.com/toc/tprs20/current)** [SCIE, Impact factor **8.57**, JCR Q1, Ranking 2/84].
 
-Reviewer - **Transportation Research Part E: Logistics and Transportation Review** [SCIE, Impact factor **6.88**, JCR Q1, Ranking 3/136].
+Reviewer - **[Transportation Research Part E: Logistics and Transportation Review](https://www.journals.elsevier.com/transportation-research-part-e-logistics-and-transportation-review)** [SCIE, Impact factor **6.88**, JCR Q1, Ranking 3/136].
 
-Reviewer - **International Journal of Physical Distribution and Logistics Management** [SSCI, Impact factor **6.31**, JCR Q1].
+Reviewer - **[International Journal of Physical Distribution and Logistics Management](https://www.emerald.com/insight/publication/issn/0960-0035)** [SSCI, Impact factor **6.31**, JCR Q1].
 
 Member - Production and Operations Management Society
 
@@ -156,11 +156,11 @@ Consumption impulse determination: The roles of internet celebrity endorsement a
 
 **Cheng, G.W. (Master of Business Analytics)**
 
-ISO 50001 implementation and cost management in manufacturing industries. Presented in **POMS 31st Annual Conference (POMS 2021)**.
+ISO 50001 implementation and cost management in manufacturing industries. Presented in **[POMS 31st Annual Conference (POMS 2021)](https://pomsmeetings.org/conf-2021/index.html)**.
 
 **Xu, M.H. (Master of Management Studies)**
 
-Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. Presented in **POMS 31st Annual Conference (POMS 2021)**.
+Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. Presented in **[POMS 31st Annual Conference (POMS 2021)](https://pomsmeetings.org/conf-2021/index.html)**.
 
 ## HOBBIES
 
