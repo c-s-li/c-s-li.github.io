@@ -44,7 +44,7 @@ Certified Public Procurement Master (CPPM)
 
 **Li, C.S.** (2020). [Supply chain resilience: Scale development and its performance impact under different business conditions and disruptions](https://theses.lib.polyu.edu.hk/handle/200/10327). Doctoral Dissertation, The Hong Kong Polytechnic University.
 
-### Journal Papers - Published
+### Journal Papers
 
 **Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) [Value of supply chain resilience: Roles of culture, flexibility, and integration](https://www.emerald.com/insight/content/doi/10.1108/IJPDLM-02-2019-0041/full/html). **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
 
