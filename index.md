@@ -126,9 +126,11 @@ Academic Advisor in Supply Chain Management / Macau University of Science and Te
 
 Training Advisor in International Competition / Macau University of Science and Technology
 
-MBGZ01 Global Operations and Supply Chain Management / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
+DBMZ10 Emerging Issues in Management / Compulsory Course for Doctor of Philosophy in Management / Macau University of Science and Technology
 
 MBGZ04 Empirical Analysis in Supply Chain Management / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
+
+MBGZ01 Global Operations and Supply Chain Management / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
 
 BBAZ16604 Decision Analysis in Business / Compulsory Course for Bachelor of Business Analytics / Macau University of Science and Technology
 
