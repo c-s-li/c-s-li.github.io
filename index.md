@@ -38,6 +38,12 @@ Software Test Engineer (STE)
 
 Certified Public Procurement Master (CPPM)
 
+
+
+## RESEARCH GRANTS
+
+2021-2023: Implementation and Weight Determination of Supply Chain Resilience Practices: PI. MOP$ 405,600. Higher Education Fund of Macau.
+
 ## PUBLICATIONS
 
 ### Dissertation
