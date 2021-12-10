@@ -31,14 +31,11 @@ MA (Distinction) / [The Hong Kong Polytechnic University](https://www.polyu.edu.
 
 BEng / [Jiangnan University](https://english.jiangnan.edu.cn/)
 
-
 ## PROFESSIONAL QUALIFICATIONS
 
 Software Test Engineer (STE)
 
 Certified Public Procurement Master (CPPM)
-
-
 
 ## RESEARCH GRANTS
 
@@ -104,9 +101,9 @@ Note: * Corresponding author; # Students under Supervision
 
 ## SERVICES
 
-Reviewer - **[International Journal of Production Economics](https://www.journals.elsevier.com/international-journal-of-production-economics)** [SCIE, Impact factor **7.89**, JCR Q1, Ranking 3/84].
-
 Reviewer - **[International Journal of Production Research](https://www.tandfonline.com/toc/tprs20/current)** [SCIE, Impact factor **8.57**, JCR Q1, Ranking 2/84].
+
+Reviewer - **[International Journal of Production Economics](https://www.journals.elsevier.com/international-journal-of-production-economics)** [SCIE, Impact factor **7.89**, JCR Q1, Ranking 3/84].
 
 Reviewer - **[Transportation Research Part E: Logistics and Transportation Review](https://www.journals.elsevier.com/transportation-research-part-e-logistics-and-transportation-review)** [SCIE, Impact factor **6.88**, JCR Q1, Ranking 3/136].
 
