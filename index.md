@@ -59,10 +59,6 @@ Certified Public Procurement Master (CPPM)
 
 [SSCI, Impact factor 4.15, **Top Journal in Decision Science**]
 
-<!--Wong, C.W.Y., & **Li, C.S.*** (2020) Implementation and Weight Determination of Supply Chain Disruption Management Practices. **Production and Operations Management**. Under review.
-
-[UTD 24, SCIE, Impact factor 2.590, JCR Q1, Ranking 213/909]-->
-
 <!--**Li, C.S.**, Ki, C.W.* , Chong, S.M., & Peng, Y.Y.# (2021) Live streaming e-commerce: A new way of promoting online shopping by gratifying consumers’ in-store and in-person shopping experiences. **Journal of Business Research**, Under review.
 
 [SCIE, Impact factor 7.14, JCR Q1, Ranking 32/153]-->
@@ -75,7 +71,7 @@ Certified Public Procurement Master (CPPM)
 
 [SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]-->
 
-<!--**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2021) Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **[International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)**, Under review.
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2022) Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **[International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)**, Accepted.
 
 [SSCI]
 
