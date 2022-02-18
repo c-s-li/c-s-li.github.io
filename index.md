@@ -41,6 +41,8 @@ Certified Public Procurement Master (CPPM)
 
 2021-2023: Implementation and Weight Determination of Supply Chain Resilience Practices: PI. Higher Education Fund of Macau.
 
+2022-2023: Purchase intention determination in the context of live streaming e-commerce: PI. Faculty Research Grant of Macau University of Science and Technology.
+
 ## PUBLICATIONS
 
 ### Dissertation
