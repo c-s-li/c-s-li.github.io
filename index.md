@@ -53,7 +53,7 @@ Certified Public Procurement Master (CPPM)
 
 **Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) [Value of supply chain resilience: Roles of culture, flexibility, and integration](https://www.emerald.com/insight/content/doi/10.1108/IJPDLM-02-2019-0041/full/html). **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
 
-[SSCI, Impact factor **6.31**, JCR Q1]
+[SSCI, Impact factor **7.21**, JCR Q1]
 
 <!--### Journal Papers - Submitted 
 
@@ -75,7 +75,9 @@ Certified Public Procurement Master (CPPM)
 
 **Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2022) Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **[International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)**, Accepted.
 
-[SSCI]
+Pan, X, Wong, C.W.Y.* , **Li, C.S.** (2022) [Circular economy practices in the waste electrical and electronic equipment (WEEE) industry: A systematic review and future research agendas](https://doi.org/10.1016/j.jclepro.2022.132671). **Journal of Cleaner Production**, Accepted and available online.
+
+[SCIE, Impact factor **11.07**, JCR Q1]
 
 <!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.
 
@@ -99,13 +101,15 @@ Note: * Corresponding author; # Students under Supervision
 
 ## SERVICES
 
-Reviewer - **[International Journal of Production Research](https://www.tandfonline.com/toc/tprs20/current)** [SCIE, Impact factor **8.57**, JCR Q1, Ranking 2/84].
+Reviewer - **[International Journal of Production Research](https://www.tandfonline.com/toc/tprs20/current)** [SCIE, Impact factor **9.02**, JCR Q1, Ranking 6/87].
 
-Reviewer - **[International Journal of Production Economics](https://www.journals.elsevier.com/international-journal-of-production-economics)** [SCIE, Impact factor **7.89**, JCR Q1, Ranking 3/84].
+Reviewer - **[International Journal of Production Economics](https://www.journals.elsevier.com/international-journal-of-production-economics)** [SCIE, Impact factor **11.25**, JCR Q1, Ranking 2/87].
 
-Reviewer - **[Transportation Research Part E: Logistics and Transportation Review](https://www.journals.elsevier.com/transportation-research-part-e-logistics-and-transportation-review)** [SCIE, Impact factor **6.88**, JCR Q1, Ranking 3/136].
+Reviewer - **[Transportation Research Part E: Logistics and Transportation Review](https://www.journals.elsevier.com/transportation-research-part-e-logistics-and-transportation-review)** [SCIE, Impact factor **10.05**, JCR Q1, Ranking 3/138].
 
-Reviewer - **[International Journal of Physical Distribution and Logistics Management](https://www.emerald.com/insight/publication/issn/0960-0035)** [SSCI, Impact factor **6.31**, JCR Q1].
+Reviewer - **[International Journal of Business Logistics](https://www.journals.elsevier.com/international-journal-of-production-economics)** [SSCI, Impact factor **7.88**, JCR Q1].
+
+Reviewer - **[International Journal of Physical Distribution and Logistics Management](https://www.emerald.com/insight/publication/issn/0960-0035)** [SSCI, Impact factor **7.21**, JCR Q1].
 
 Member - Production and Operations Management Society
 
