@@ -65,7 +65,7 @@ Certified Public Procurement Master (CPPM)
 
 [SCIE, Impact factor 7.14, JCR Q1, Ranking 32/153]-->
 
-Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) Bridging the trust gap in influencer marketing: Ways to sustain consumers’ trust and assuage their distrust in the social media influencer landscape. **International Journal of Human–Computer Interaction**, Accepted.
+Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) Bridging the trust gap in influencer marketing: Ways to sustain consumers’ trust and assuage their distrust in the social media influencer landscape. **International Journal of Human–Computer Interaction**, In press.
 
 [SSCI, Impact factor 4.92, JCR Q1]
 
@@ -73,9 +73,9 @@ Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) Bridging the trust gap in influence
 
 [SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]-->
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2022) Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **[International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)**, Accepted.
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2022) Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **[International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)**, In press.
 
-Pan, X, Wong, C.W.Y.* , **Li, C.S.** (2022) [Circular economy practices in the waste electrical and electronic equipment (WEEE) industry: A systematic review and future research agendas](https://doi.org/10.1016/j.jclepro.2022.132671). **Journal of Cleaner Production**, Accepted and available online.
+Pan, X, Wong, C.W.Y.* , **Li, C.S.** (2022) [Circular economy practices in the waste electrical and electronic equipment (WEEE) industry: A systematic review and future research agendas](https://doi.org/10.1016/j.jclepro.2022.132671). **Journal of Cleaner Production**, 365: 132671.
 
 [SCIE, Impact factor **11.07**, JCR Q1]
 
