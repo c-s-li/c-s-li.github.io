@@ -107,7 +107,7 @@ Reviewer - **[International Journal of Production Economics](https://www.journal
 
 Reviewer - **[Transportation Research Part E: Logistics and Transportation Review](https://www.journals.elsevier.com/transportation-research-part-e-logistics-and-transportation-review)** [SCIE, Impact factor **10.05**, JCR Q1, Ranking 3/138].
 
-Reviewer - **[International Journal of Business Logistics](https://www.journals.elsevier.com/international-journal-of-production-economics)** [SSCI, Impact factor **7.88**, JCR Q1].
+Reviewer - **[Journal of Business Logistics](https://onlinelibrary.wiley.com/journal/21581592)** [SSCI, Impact factor **7.88**, JCR Q1].
 
 Reviewer - **[International Journal of Physical Distribution and Logistics Management](https://www.emerald.com/insight/publication/issn/0960-0035)** [SSCI, Impact factor **7.21**, JCR Q1].
 
