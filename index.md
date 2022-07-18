@@ -21,7 +21,7 @@
 Supply Chain and Operations Management, Consumer and Organizational Behavior, Business Analytics, Network Analytics, Data Sciences
 
 ## RECRUITMENT
-We are looking for **HIGHLY MOTIVATED Research Associate/Assistant** and Postgraduate (**PhD/MPhil/Master**) students with strong background in Computer Science, Business Analytics, Supply Chain Management, Operations Management, etc. **Undergraduate** students who are interested in our research are also welcome to join us.
+We are looking for **<font color='red'> HIGHLY MOTIVATED Research Associate/Assistant </font>** and Postgraduate (**PhD/MPhil/Master**) students with strong background in Computer Science, Business Analytics, Supply Chain Management, Operations Management, etc. **Undergraduate** students who are interested in our research are also welcome to join us.
 
 ## ACADEMIC QUALIFICATIONS
 
@@ -65,7 +65,7 @@ Certified Public Procurement Master (CPPM)
 
 [SCIE, Impact factor 7.14, JCR Q1, Ranking 32/153]-->
 
-Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) [Bridging the trust gap in influencer marketing: Ways to sustain consumers’ trust and assuage their distrust in the social media influencer landscape](https://doi.org/10.1080/10447318.2022.2097785). **International Journal of Human–Computer Interaction**, Ahead-of-print, 1-16. [[Paper](Ki_Chow_Li_2022.pdf)]
+Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) [Bridging the trust gap in influencer marketing: Ways to sustain consumers’ trust and assuage their distrust in the social media influencer landscape](https://doi.org/10.1080/10447318.2022.2097785). **International Journal of Human–Computer Interaction**, Ahead-of-print, 1-16. [[PAPER](Ki_Chow_Li_2022.pdf)]
 
 [SSCI, Impact factor 4.92, JCR Q1]
 
