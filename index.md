@@ -21,7 +21,7 @@
 Supply Chain and Operations Management, Consumer and Organizational Behavior, Business Analytics, Network Analytics, Data Sciences
 
 ## RECRUITMENT
-We are looking for **HIGHLY MOTIVATED Research Associate/Assistant** and Postgraduate (**PhD/MPhil/Master**) students with strong background in Computer Science, Business Analytics, Supply Chain Management, Operations Management, etc. **Undergraduate** students who are interested in our research are also welcome to join us.
+We are looking for $\color{red}{**HIGHLY MOTIVATED Research Associate/Assistant**}$ and Postgraduate (**PhD/MPhil/Master**) students with strong background in Computer Science, Business Analytics, Supply Chain Management, Operations Management, etc. **Undergraduate** students who are interested in our research are also welcome to join us.
 
 ## ACADEMIC QUALIFICATIONS
 
