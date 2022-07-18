@@ -65,7 +65,7 @@ Certified Public Procurement Master (CPPM)
 
 [SCIE, Impact factor 7.14, JCR Q1, Ranking 32/153]-->
 
-Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) Bridging the trust gap in influencer marketing: Ways to sustain consumers’ trust and assuage their distrust in the social media influencer landscape. **[International Journal of Human–Computer Interaction](https://www.tandfonline.com/journals/hihc20)**, In press.
+Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) [Bridging the trust gap in influencer marketing: Ways to sustain consumers’ trust and assuage their distrust in the social media influencer landscape](https://doi.org/10.1080/10447318.2022.2097785). **International Journal of Human–Computer Interaction**, Ahead-of-print, 1-16.
 
 [SSCI, Impact factor 4.92, JCR Q1]
 
