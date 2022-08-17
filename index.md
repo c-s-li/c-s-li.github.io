@@ -73,7 +73,7 @@ Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) [Bridging the trust gap in influenc
 
 [SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]-->
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2022) [Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions](https://doi.org/10.1504/IJSTL.2022.10047380). **[International Journal of Shipping and Transport Logistics]**, In press. [[PAPER](Li_et_al_2022_IJSTL.pdf)]
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2022) [Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions](https://doi.org/10.1504/IJSTL.2022.10047380). **International Journal of Shipping and Transport Logistics**, In press. [[PAPER](Li_et_al_2022_IJSTL.pdf)]
 
 [SSCI]
 
