@@ -73,9 +73,11 @@ Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) [Bridging the trust gap in influenc
 
 [SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]-->
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2022) Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions. **[International Journal of Shipping and Transport Logistics](https://www.inderscience.com/jhome.php?jcode=ijstl)**, In press.
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2022) [Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions](https://doi.org/10.1504/IJSTL.2022.10047380). **[International Journal of Shipping and Transport Logistics]**, In press. [[PAPER](Li_et_al_2022_IJSTL.pdf)]
 
-Pan, X, Wong, C.W.Y.* , **Li, C.S.** (2022) [Circular economy practices in the waste electrical and electronic equipment (WEEE) industry: A systematic review and future research agendas](https://doi.org/10.1016/j.jclepro.2022.132671). **Journal of Cleaner Production**, 365: 132671.
+[SSCI]
+
+Pan, X, Wong, C.W.Y.* , **Li, C.S.** (2022) [Circular economy practices in the waste electrical and electronic equipment (WEEE) industry: A systematic review and future research agendas](https://doi.org/10.1016/j.jclepro.2022.132671). **Journal of Cleaner Production**, 365: 132671. [[PAPER](Pan_Wong_Li_2022_JCP.pdf)]
 
 [SCIE, Impact factor **11.07**, JCR Q1]
 
