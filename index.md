@@ -39,6 +39,8 @@ Certified Public Procurement Master (CPPM)
 
 ## RESEARCH GRANTS
 
+2023-2024: Research on Carbon Emission Trading and Monitoring Systems based on Blockchain Intelligent Technology: PI. Science and Technology Development Fund (FDCT) of Macau.
+
 2021-2023: Implementation and Weight Determination of Supply Chain Resilience Practices: PI. Higher Education Fund of Macau.
 
 2022-2023: Purchase intention determination in the context of live streaming e-commerce: PI. Faculty Research Grant of Macau University of Science and Technology.
@@ -138,6 +140,8 @@ DBMZ10 Emerging Issues in Management / Compulsory Course for Doctor of Philosoph
 MBGZ04 Empirical Analysis in Supply Chain Management / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
 
 MBGZ01 Global Operations and Supply Chain Management / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
+
+BBAE16506 Supply Chain Finance / Major Elective Course of Supply Chain Management / Macau University of Science and Technology
 
 BBAZ16604 Decision Analysis in Business / Compulsory Course for Bachelor of Business Analytics / Macau University of Science and Technology
 
