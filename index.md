@@ -41,6 +41,8 @@ Certified Public Procurement Master (CPPM)
 
 2023-2024: Research on Carbon Emission Trading and Monitoring Systems based on Blockchain Intelligent Technology: PI. Science and Technology Development Fund (FDCT) of Macau.
 
+2023-2024: Optimizing Resource Recovery in the Coordination Game of Reverse Supply Chain for Construction Waste: PI. Faculty Research Grant of Macau University of Science and Technology.
+
 2021-2023: Implementation and Weight Determination of Supply Chain Resilience Practices: PI. Higher Education Fund of Macau.
 
 2022-2023: Purchase intention determination in the context of live streaming e-commerce: PI. Faculty Research Grant of Macau University of Science and Technology.
@@ -52,6 +54,10 @@ Certified Public Procurement Master (CPPM)
 **Li, C.S.** (2020). [Supply chain resilience: Scale development and its performance impact under different business conditions and disruptions](https://theses.lib.polyu.edu.hk/handle/200/10327). Doctoral Dissertation, The Hong Kong Polytechnic University.
 
 ### Journal Papers
+
+Ki, C.W., **Li, C.S.**, Chenn, A. S., Chong, S. M., & Cho, E. (2024) [Wise consumer choices in online secondhand luxury (OSHL) shopping: An integrated model of motivations, attitudes, and purchase intentions for OSHL as wise, conspicuous, and sustainable consumption](https://www.sciencedirect.com/science/article/abs/pii/S0969698923003223). **Journal of Retailing and Consumer Services**, 76: 103571. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
+
+[SSCI, Impact factor **7.21**, JCR Q1]
 
 **Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) [Value of supply chain resilience: Roles of culture, flexibility, and integration](https://www.emerald.com/insight/content/doi/10.1108/IJPDLM-02-2019-0041/full/html). **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
 
@@ -67,7 +73,7 @@ Certified Public Procurement Master (CPPM)
 
 [SCIE, Impact factor 7.14, JCR Q1, Ranking 32/153]-->
 
-Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) [Bridging the trust gap in influencer marketing: Ways to sustain consumers’ trust and assuage their distrust in the social media influencer landscape](https://doi.org/10.1080/10447318.2022.2097785). **International Journal of Human–Computer Interaction**, Ahead-of-print, 1-16. [[PAPER](Ki_Chow_Li_2022.pdf)]
+Ki, C.W., Chow, T.C., & **Li, C.S.*** (2023) [Bridging the trust gap in influencer marketing: Ways to sustain consumers’ trust and assuage their distrust in the social media influencer landscape](https://doi.org/10.1080/10447318.2022.2097785). **International Journal of Human–Computer Interaction**, 39 (17): 3445-3460. [[PAPER](Ki_Chow_Li_2022.pdf)]
 
 [SSCI, Impact factor 4.92, JCR Q1]
 
@@ -75,7 +81,7 @@ Ki, C.W., Chow, T.C., & **Li, C.S.*** (2022) [Bridging the trust gap in influenc
 
 [SCIE, Impact factor 4.133, JCR Q1, Ranking 50/266]-->
 
-**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2022) [Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions](https://doi.org/10.1504/IJSTL.2022.10047380). **International Journal of Shipping and Transport Logistics**, In press. [[PAPER](Li_et_al_2022_IJSTL.pdf)]
+**Li, C.S.**, Wong, C.W.Y.* , Wong, C.Y., Boon-itt, S., & Miao, X. (2023) [Empirical research on performance effects of supply chain resilience: Systematic literature review, citation network analysis and future research directions](https://doi.org/10.1504/IJSTL.2022.10047380). **International Journal of Shipping and Transport Logistics**, 17 (1-2): 80-106. [[PAPER](Li_et_al_2022_IJSTL.pdf)]
 
 [SSCI]
 
