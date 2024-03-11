@@ -55,7 +55,7 @@ Certified Public Procurement Master (CPPM)
 
 ### Journal Papers
 
-Ki, C.W., **Li, C.S.**, Chenn, A. S., Chong, S. M., & Cho, E. (2024) [Wise consumer choices in online secondhand luxury (OSHL) shopping: An integrated model of motivations, attitudes, and purchase intentions for OSHL as wise, conspicuous, and sustainable consumption](https://www.sciencedirect.com/science/article/abs/pii/S0969698923003223). **Journal of Retailing and Consumer Services**, 76: 103571. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
+Ki, C.W., **Li, C.S.**, Chenn, A. S., Chong, S. M., & Cho, E. (2024) [Wise consumer choices in online secondhand luxury (OSHL) shopping: An integrated model of motivations, attitudes, and purchase intentions for OSHL as wise, conspicuous, and sustainable consumption](https://www.sciencedirect.com/science/article/abs/pii/S0969698923003223). **Journal of Retailing and Consumer Services**, 76: 103571. [[PAPER](Ki et al 2024 JRCS.pdf)]
 
 [SSCI, Impact factor **7.21**, JCR Q1]
 
