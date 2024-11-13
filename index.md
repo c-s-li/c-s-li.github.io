@@ -181,15 +181,15 @@ ITC2019M Management Principles in Fashion Business / Compulsory Course for Bache
 
 **Tan, K.Y.** 
 
-Doctor of Philosophy (PhD) in Management, From 2022
+Doctor of Philosophy (PhD) in Management, August 2025 (Expected)
 
 **Wang, X.W.**
 
-Doctor of Philosophy (PhD) in Management, From 2022
+Doctor of Philosophy (PhD) in Management, August 2025 (Expected)
 
 **Wu, H.F.**
 
-Doctor of Business Administration (DBA), From 2024
+Doctor of Business Administration (DBA) student from 2024
 
 ## SELECTED OUTSTANDING ALUMNI
 
