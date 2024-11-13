@@ -14,7 +14,7 @@
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=YKSyFhYAAAAJ&hl=en)　　[Google Homepage](https://sites.google.com/view/c-s-li/)
 
-[Macau University of Science and Technology Homepage](https://www.must.edu.mo/images/MSB/files/LiChunSheng_EN.pdf)
+[Macau University of Science and Technology Homepage](https://wm-fs2.must.edu.mo/group1/M00/06/69/rBCDpGbRlhaAVwiLAAWhN3PMxRE392.pdf)
 
 ## RESEARCH INTERESTS
 
