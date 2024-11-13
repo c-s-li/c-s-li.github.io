@@ -39,6 +39,8 @@ Certified Public Procurement Master (CPPM)
 
 ## RESEARCH GRANTS
 
+2024-2025: Pricing and trade-in strategy of closed-loop supply chain with the participation of big data service provider: PI. Faculty Research Grant of Macau University of Science and Technology.
+
 2023-2024: Research on Carbon Emission Trading and Monitoring Systems based on Blockchain Intelligent Technology: PI. Science and Technology Development Fund (FDCT) of Macau.
 
 2023-2024: Optimizing Resource Recovery in the Coordination Game of Reverse Supply Chain for Construction Waste: PI. Faculty Research Grant of Macau University of Science and Technology.
@@ -57,11 +59,11 @@ Certified Public Procurement Master (CPPM)
 
 Ki, C.W., **Li, C.S.**, Chenn, A. S., Chong, S. M., & Cho, E. (2024) [Wise consumer choices in online secondhand luxury (OSHL) shopping: An integrated model of motivations, attitudes, and purchase intentions for OSHL as wise, conspicuous, and sustainable consumption](https://www.sciencedirect.com/science/article/abs/pii/S0969698923003223). **Journal of Retailing and Consumer Services**, 76: 103571. [[PAPER](Ki_et_al_2024_JRCS.pdf)]
 
-[SSCI, Impact factor **7.21**, JCR Q1]
+[SSCI, Impact factor **11.0**, JCR Q1]
 
 **Li, C.S.**, Wong, C.W.Y.* , Yang, C.C., Shang, G.K.C., & Lirn, T.T.C. (2019) [Value of supply chain resilience: Roles of culture, flexibility, and integration](https://www.emerald.com/insight/content/doi/10.1108/IJPDLM-02-2019-0041/full/html). **International Journal of Physical Distribution & Logistics Management**, 50 (1): 80-100. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
 
-[SSCI, Impact factor **7.21**, JCR Q1]
+[SSCI, Impact factor **5.9**, JCR Q1]
 
 <!--### Journal Papers - Submitted 
 
@@ -75,7 +77,7 @@ Ki, C.W., **Li, C.S.**, Chenn, A. S., Chong, S. M., & Cho, E. (2024) [Wise consu
 
 Ki, C.W., Chow, T.C., & **Li, C.S.*** (2023) [Bridging the trust gap in influencer marketing: Ways to sustain consumers’ trust and assuage their distrust in the social media influencer landscape](https://doi.org/10.1080/10447318.2022.2097785). **International Journal of Human–Computer Interaction**, 39 (17): 3445-3460. [[PAPER](Ki_Chow_Li_2022.pdf)]
 
-[SSCI, Impact factor 4.92, JCR Q1]
+[SSCI, Impact factor 3.4, JCR Q1]
 
 <!--Liang, Y.Y., **Li, C.S.**, Fan, J.J., & Xu, M.Z. (2021) Robust Bi-Orthogonal Projection Learning for dimensionality reduction. **IEEE Transactions on Circuits and Systems for Video Technology**, Under review.
 
@@ -87,13 +89,19 @@ Ki, C.W., Chow, T.C., & **Li, C.S.*** (2023) [Bridging the trust gap in influenc
 
 Pan, X, Wong, C.W.Y.* , **Li, C.S.** (2022) [Circular economy practices in the waste electrical and electronic equipment (WEEE) industry: A systematic review and future research agendas](https://doi.org/10.1016/j.jclepro.2022.132671). **Journal of Cleaner Production**, 365: 132671. [[PAPER](Pan_Wong_Li_2022_JCP.pdf)]
 
-[SCIE, Impact factor **11.07**, JCR Q1]
+[SCIE, Impact factor **9.8**, JCR Q1]
 
 <!--**Li, C.S.**, Wong, C.W.Y.* (2020) Scale development and empirical validation of supply chain resilience: A multi-phase mixed methods study. Anticipated submission to **Journal of Operations Management**.
 
 [UTD 24, SCIE, Impact factor 4.673, JCR Q1, Ranking 10/83]-->
 
 ### Conference Papers/Presentations
+
+Tan, K.Y.#, Tian, Y.H., Xu, F.#, & **Li, C.S.*** (2024) Agile Volunteer Scheduling in Flood Management: Integrating ARCGIS and the Multi-Strategy Grey Wolf Optimization Algorithm. **[31st EurOMA conference (EurOMA 2024)](https://euroma2024.org/)**, Barcelona, Spain. 
+
+Tan, K.Y.#, Tian, Y.H., Xu, F.#, & **Li, C.S.*** (2023) Research on Multi-Objective Optimal Scheduling for Power Battery Reverse Supply Chain. **[30th EurOMA conference (EurOMA 2023)](https://euroma2023.org/)**, Leuven, Belgium. 
+
+Cheng, F., Wang, L., & **Li, C.S.** (2022) For the fashion or the environment: The role of sustainable impact disclosure on resale platforms. **[POMS 32nd Annual Conference (POMS 2022)](https://pomsmeetings.org/conf-2022/)**, Virtual. 
 
 Peng, Y.Y.#, Xu, M.H.#, Cheng, G.W.#, & **Li, C.S.*** (2021) Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. **[POMS 31st Annual Conference (POMS 2021)](https://pomsmeetings.org/conf-2021/index.html)**, Virtual.
 
@@ -105,29 +113,28 @@ Cheng, G.W.#, Xu, M.Z., Peng, Y.Y.#, & **Li, C.S.*** (2021) ISO 50001 implementa
 
 **Li, C.S.**, & Wong, C.W.Y.* (2016) The impact of supply chain resilience on financial performance: Insights from competitive strategy theory. The International Conference on Business Case Research (ICBCR 2016), Hong Kong.
 
-**Li, C.S.**, & Wong, C.W.Y.* (2016) Fashion supply chain resilience: Construct development and measurement validation. Textile Summit and Postgraduate Student Conference 2016, Hong Kong.
-
 Note: * Corresponding author; # Students under Supervision
 
 ## SERVICES
 
-Reviewer - **[International Journal of Production Research](https://www.tandfonline.com/toc/tprs20/current)** [SCIE, Impact factor **9.02**, JCR Q1, Ranking 6/87].
+**Editorial Board Member and/or Reviewers** (selected) 
+IEEE Transactions on Systems Man Cybernetics - Systems
+IEEE Transactions on Knowledge and Data Engineering
+International Journal of Physical Distribution and Logistics Management
+International Journal of Production Research; 
+International Journal of Production Economics 
+Journal of Business Logistics 
+Production Planning and Control
+Transportation Research Part E: Logistics and Transportation Review 
 
-Reviewer - **[International Journal of Production Economics](https://www.journals.elsevier.com/international-journal-of-production-economics)** [SCIE, Impact factor **11.25**, JCR Q1, Ranking 2/87].
+**Member**
+Production and Operations Management Society
+European Operations Management Association
+Chartered Institute of Logistics and Transport
 
-Reviewer - **[Transportation Research Part E: Logistics and Transportation Review](https://www.journals.elsevier.com/transportation-research-part-e-logistics-and-transportation-review)** [SCIE, Impact factor **10.05**, JCR Q1, Ranking 3/138].
-
-Reviewer - **[Journal of Business Logistics](https://onlinelibrary.wiley.com/journal/21581592)** [SSCI, Impact factor **7.88**, JCR Q1].
-
-Reviewer - **[International Journal of Physical Distribution and Logistics Management](https://www.emerald.com/insight/publication/issn/0960-0035)** [SSCI, Impact factor **7.21**, JCR Q1].
-
-Member - Production and Operations Management Society
-
-Member - European Operations Management Association
-
-Session Chair - Production and Operations Management Society (POMS) 30th Annual Conference (2019), Washington D.C.
-
-Session Chair - Textile Summit and Postgraduate Student Conference (2016), Hong Kong.
+**Session Chair**
+Production and Operations Management Society (POMS) 30th Annual Conference (2019), Washington D.C.
+Textile Summit and Postgraduate Student Conference (2016), Hong Kong.
 
 ## TEACHING
 
@@ -169,10 +176,6 @@ Live streaming e-commerce: A new way of promoting online shopping by gratifying 
 
 A review on information systems for supply chain management. Under preparation.
 
-**Yu, J.R.X. (Bachelor of Supply Chain Management)**
-
-Consumption impulse determination: The roles of internet celebrity endorsement and peer pressure in the expectation-confirmation model. Under preparation.
-
 **Cheng, G.W. (Master of Business Analytics)**
 
 ISO 50001 implementation and cost management in manufacturing industries. Presented in **[POMS 31st Annual Conference (POMS 2021)](https://pomsmeetings.org/conf-2021/index.html)**.
@@ -180,6 +183,10 @@ ISO 50001 implementation and cost management in manufacturing industries. Presen
 **Xu, M.H. (Master of Management Studies)**
 
 Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. Presented in **[POMS 31st Annual Conference (POMS 2021)](https://pomsmeetings.org/conf-2021/index.html)**.
+
+**Tan, K.Y. (Doctor of Philosophy in Management)**
+
+Agile Volunteer Scheduling in Flood Management: Integrating ARCGIS and the Multi-Strategy Grey Wolf Optimization Algorithm. Presented in **[31st EurOMA conference (EurOMA 2024)](https://euroma2024.org/)**.
 
 ## HOBBIES
 
