@@ -118,22 +118,35 @@ Note: * Corresponding author; # Students under Supervision
 ## SERVICES
 
 **Editorial Board Member and/or Reviewers** (selected) 
+
 IEEE Transactions on Systems Man Cybernetics - Systems
+
 IEEE Transactions on Knowledge and Data Engineering
+
 International Journal of Physical Distribution and Logistics Management
-International Journal of Production Research; 
+
+International Journal of Production Research
+
 International Journal of Production Economics 
+
 Journal of Business Logistics 
+
 Production Planning and Control
+
 Transportation Research Part E: Logistics and Transportation Review 
 
 **Member**
+
 Production and Operations Management Society
+
 European Operations Management Association
+
 Chartered Institute of Logistics and Transport
 
 **Session Chair**
+
 Production and Operations Management Society (POMS) 30th Annual Conference (2019), Washington D.C.
+
 Textile Summit and Postgraduate Student Conference (2016), Hong Kong.
 
 ## TEACHING
@@ -164,7 +177,21 @@ BBAZ16011 Business Statistics / Compulsory Course for Bachelor of Business Admin
 
 ITC2019M Management Principles in Fashion Business / Compulsory Course for Bachelor of Fashion Business / The Hong Kong Polytechnic University
 
-## SELECTED OUTSTANDING STUDENTS
+## ONGOING DOCTORAL STUDENTS
+
+**Tan, K.Y.** 
+
+Doctor of Philosophy (PhD) in Management, From 2022
+
+**Wang, X.W.**
+
+Doctor of Philosophy (PhD) in Management, From 2022
+
+**Wu, H.F.**
+
+Doctor of Business Administration (DBA), From 2024
+
+## SELECTED OUTSTANDING ALUMNI
 
 **Peng, Y.Y. (Bachelor of Business Analytics)**
 
@@ -183,10 +210,6 @@ ISO 50001 implementation and cost management in manufacturing industries. Presen
 **Xu, M.H. (Master of Management Studies)**
 
 Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. Presented in **[POMS 31st Annual Conference (POMS 2021)](https://pomsmeetings.org/conf-2021/index.html)**.
-
-**Tan, K.Y. (Doctor of Philosophy in Management)**
-
-Agile Volunteer Scheduling in Flood Management: Integrating ARCGIS and the Multi-Strategy Grey Wolf Optimization Algorithm. Presented in **[31st EurOMA conference (EurOMA 2024)](https://euroma2024.org/)**.
 
 ## HOBBIES
 
