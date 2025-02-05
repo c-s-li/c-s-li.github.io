@@ -65,9 +65,9 @@ Ki, C.W., **Li, C.S.**, Chenn, A. S., Chong, S. M., & Cho, E. (2024) [Wise consu
 
 [SSCI, Impact factor **5.9**, JCR Q1]
 
-Tan, K.Y.#, Xu, F., Yi, Z., & **Li, C.S.*** (2025). [Optimising resource recovery from construction waste material reverse supply chain coordination games](https://www.tandfonline.com/doi/full/10.1080/23302674.2025.2458176). **International Journal of Systems Science: Operations & Logistics**, 12(1), 2458176. [[PAPER](Li_et_al_IJPDLM_2019.pdf)]
+Tan, K.Y.#, Xu, F., Yi, Z., & **Li, C.S.*** (2025). [Optimising resource recovery from construction waste material reverse supply chain coordination games](https://www.tandfonline.com/doi/full/10.1080/23302674.2025.2458176). **International Journal of Systems Science: Operations & Logistics**, 12(1), 2458176. [[PAPER](Tan_Xu_Yi_Li_2025_IJSSOL.pdf)]
 
-[SSCI, Impact factor **4.0**, JCR Q1]
+[SSCI, Impact factor **4.0**, JCR Q2]
 
 <!--### Journal Papers - Submitted 
 
