@@ -101,9 +101,9 @@ Pan, X, Wong, C.W.Y.* , **Li, C.S.** (2022) [Circular economy practices in the w
 
 ### Conference Papers/Presentations
 
-Tan, K.Y.#, Tian, Y.H., Xu, F.#, & **Li, C.S.*** (2024) Agile Volunteer Scheduling in Flood Management: Integrating ARCGIS and the Multi-Strategy Grey Wolf Optimization Algorithm. **[31st EurOMA conference (EurOMA 2024)](https://euroma2024.org/)**, Barcelona, Spain. 
+Tan, K.Y.#, Tian, Y.H., Xu, F., & **Li, C.S.*** (2024) Agile Volunteer Scheduling in Flood Management: Integrating ARCGIS and the Multi-Strategy Grey Wolf Optimization Algorithm. **[31st EurOMA conference (EurOMA 2024)](https://euroma2024.org/)**, Barcelona, Spain. 
 
-Tan, K.Y.#, Tian, Y.H., Xu, F.#, & **Li, C.S.*** (2023) Research on Multi-Objective Optimal Scheduling for Power Battery Reverse Supply Chain. **[30th EurOMA conference (EurOMA 2023)](https://euroma2023.org/)**, Leuven, Belgium. 
+Tan, K.Y.#, Tian, Y.H., Xu, F., & **Li, C.S.*** (2023) Research on Multi-Objective Optimal Scheduling for Power Battery Reverse Supply Chain. **[30th EurOMA conference (EurOMA 2023)](https://euroma2023.org/)**, Leuven, Belgium. 
 
 Cheng, F., Wang, L., & **Li, C.S.** (2022) For the fashion or the environment: The role of sustainable impact disclosure on resale platforms. **[POMS 32nd Annual Conference (POMS 2022)](https://pomsmeetings.org/conf-2022/)**, Virtual. 
 
@@ -166,6 +166,8 @@ Academic Advisor in Supply Chain Management / Macau University of Science and Te
 Training Advisor in International Competition / Macau University of Science and Technology
 
 DBMZ10 Emerging Issues in Management / Compulsory Course for Doctor of Philosophy (PhD) in Management / Macau University of Science and Technology
+
+MBGZ06 Business Optimization Theory / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
 
 MBGZ04 Empirical Analysis in Supply Chain Management / Compulsory Course for Master of Supply Chain Management / Macau University of Science and Technology
 
