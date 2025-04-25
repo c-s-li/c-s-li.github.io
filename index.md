@@ -69,9 +69,9 @@ Tan, K.Y.#, Xu, F., Yi, Z., & **Li, C.S.*** (2025). [Optimising resource recover
 
 [SSCI, Impact factor **4.0**, JCR Q2]
 
-Chen, H.Y., Gao, K.W., Lin, C., Huang, A.W., & **Li, C.S.*** (2025). [Celebrity endorsement on social media in China: familiarity and likeability heuristics in impulse purchase](https://www.tandfonline.com/doi/full/10.1080/13602381.2025.2492627). **Asia Pacific Business Review**, In press. [[PAPER](Tan_Xu_Yi_Li_2025_IJSSOL.pdf)]
+Chen, H.Y., Gao, K.W., Lin, C., Huang, A.W., & **Li, C.S.*** (2025). [Celebrity endorsement on social media in China: familiarity and likeability heuristics in impulse purchase](https://www.tandfonline.com/doi/full/10.1080/13602381.2025.2492627). **Asia Pacific Business Review**, In press. [[PAPER](Chen_et_al_APBR.pdf)]
 
-[SSCI, Impact factor **4.0**, JCR Q2]
+[SSCI]
 
 <!--### Journal Papers - Submitted 
 
