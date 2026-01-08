@@ -185,21 +185,27 @@ BBAZ16504 Decision Making Methods / Compulsory Course for Bachelor of Supply Cha
 
 BBAZ16011 Business Statistics / Compulsory Course for Bachelor of Business Administration / Macau University of Science and Technology
 
+BEIE304 Decision Methods / Compulsory Course for Bachelor of Engineering in Interdisciplinary Engineering (Technology and Management) / Faculty of Innovation Engineering / Macau University of Science and Technology
+
 ITC2019M Management Principles in Fashion Business / Compulsory Course for Bachelor of Fashion Business / The Hong Kong Polytechnic University
 
-## ONGOING DOCTORAL STUDENTS
+## DOCTORAL STUDENTS
 
 **Tan, K.Y.** 
 
-Doctor of Philosophy (PhD) in Management, August 2025 (Expected)
+Doctor of Philosophy (PhD) in Management, August 2025 (Graduated)
 
 **Wang, X.W.**
 
-Doctor of Philosophy (PhD) in Management, August 2025 (Expected)
+Doctor of Philosophy (PhD) in Management, August 2026 (Expected)
 
 **Wu, H.F.**
 
 Doctor of Business Administration (DBA) student from 2024
+
+**Xu, R.Y.**
+
+Doctor of Philosophy (PhD) in Management student from 2025
 
 ## SELECTED OUTSTANDING ALUMNI
 
@@ -223,7 +229,7 @@ Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce
 
 ## HOBBIES
 
-Badminton, Cycling, Diving, Gardening, Hiking, Movie, Music, Photography, Reading, Swimming, Tennis, Travelling, Writing, etc.
+**Badminton**, Cycling, Diving, Gardening, Hiking, Movie, Music, Photography, Reading, Swimming, **Tennis**, Travelling, Writing, etc.
 
 <!-- ## [Zhihu](https://www.zhihu.com/people/spring8) and [WeChat Public Account](https://mp.weixin.qq.com/s?__biz=MzI5NjQwNzkwNg==&mid=100000007&idx=1&sn=df626e102e862af7100a844c7863d02a&chksm=6c45870a5b320e1c93b2eacf1971b50f8d6e3e5d5aae4124666b1233c3e52bfc2aecc72cbcdd&scene=18&xtrack=1&key=110bbf874cc193e9d72457ca7bf887e691039b4eb4ae3d3e0218cd6d462f556f8b87c2541aad19c64eebd333174d3f9efe18bfe290c8cc60f6dcfa3c39ed1dd58cc600c64da9b9f3ad8546b1ea144fc7&ascene=1&uin=MjMzOTIxMTE0MQ%3D%3D&devicetype=Windows+10&version=62070155&lang=zh_CN&exportkey=AVeMLXScXcOezwFu2e37ukk%3D&pass_ticket=rapqCHprj4se3VQZ9hj8EFkIPVips2%2F1%2F%2BouryVkQuR6jesnecbUNLsLgWFFGDDi) in Chinese
 
