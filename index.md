@@ -59,7 +59,7 @@ Certified Public Procurement Master (CPPM)
 
 ### Selected Journal Papers / Book Chapters
 
-Chen, C. H., Io, H. H. N., & **Li, C.S.*** (2026) [Co-Creation in Modern Business Education in Macau: Digital Technology and AI-Based Innovative Practices in Agentic Marketing, E-Commerce and Decision Analysis](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003662792-6/co-creation-modern-business-education-macau-caleb-huanyong-chen-helmond-hio-nam-io-chunsheng-li). In Digital Technology in Management Education (pp. 76-99). Routledge. [PAPER](Chen_Io_Li_Book_chapter.pdf)
+Chen, C. H., Io, H. H. N., & **Li, C.S.*** (2026) [Co-Creation in Modern Business Education in Macau: Digital Technology and AI-Based Innovative Practices in Agentic Marketing, E-Commerce and Decision Analysis](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003662792-6/co-creation-modern-business-education-macau-caleb-huanyong-chen-helmond-hio-nam-io-chunsheng-li). In Digital Technology in Management Education (pp. 76-99). Routledge. [[PAPER](Chen_Io_Li_Book_chapter.pdf)]
 
 Ki, C.W., **Li, C.S.**, Chenn, A. S., Chong, S. M., & Cho, E. (2024) [Wise consumer choices in online secondhand luxury (OSHL) shopping: An integrated model of motivations, attitudes, and purchase intentions for OSHL as wise, conspicuous, and sustainable consumption](https://www.sciencedirect.com/science/article/abs/pii/S0969698923003223). **Journal of Retailing and Consumer Services**, 76: 103571. [[PAPER](Ki_et_al_2024_JRCS.pdf)]
 
