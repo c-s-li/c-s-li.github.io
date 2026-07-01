@@ -39,6 +39,8 @@ Certified Public Procurement Master (CPPM)
 
 ## RESEARCH GRANTS
 
+2026-2027: Research on live streaming playback video in social media e-commerce based on decision tree: PI. Faculty Research Grant of Macau University of Science and Technology.
+
 2024-2025: Pricing and trade-in strategy of closed-loop supply chain with the participation of big data service provider: PI. Faculty Research Grant of Macau University of Science and Technology.
 
 2023-2024: Research on Carbon Emission Trading and Monitoring Systems based on Blockchain Intelligent Technology: PI. Science and Technology Development Fund (FDCT) of Macau.
@@ -55,7 +57,9 @@ Certified Public Procurement Master (CPPM)
 
 **Li, C.S.** (2020). [Supply chain resilience: Scale development and its performance impact under different business conditions and disruptions](https://theses.lib.polyu.edu.hk/handle/200/10327). Doctoral Dissertation, The Hong Kong Polytechnic University.
 
-### Journal Papers
+### Selected Journal Papers / Book Chapters
+
+Chen, C. H., Io, H. H. N., & **Li, C.S.*** (2026) [Co-Creation in Modern Business Education in Macau: Digital Technology and AI-Based Innovative Practices in Agentic Marketing, E-Commerce and Decision Analysis](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003662792-6/co-creation-modern-business-education-macau-caleb-huanyong-chen-helmond-hio-nam-io-chunsheng-li). In Digital Technology in Management Education (pp. 76-99). Routledge. [PAPER](Chen_Io_Li_Book_chapter.pdf)
 
 Ki, C.W., **Li, C.S.**, Chenn, A. S., Chong, S. M., & Cho, E. (2024) [Wise consumer choices in online secondhand luxury (OSHL) shopping: An integrated model of motivations, attitudes, and purchase intentions for OSHL as wise, conspicuous, and sustainable consumption](https://www.sciencedirect.com/science/article/abs/pii/S0969698923003223). **Journal of Retailing and Consumer Services**, 76: 103571. [[PAPER](Ki_et_al_2024_JRCS.pdf)]
 
@@ -197,7 +201,7 @@ Doctor of Philosophy (PhD) in Management, August 2025 (Graduated)
 
 **Wang, X.W.**
 
-Doctor of Philosophy (PhD) in Management, August 2026 (Expected)
+Doctor of Philosophy (PhD) in Management, December 2026 (Expected)
 
 **Wu, H.F.**
 
