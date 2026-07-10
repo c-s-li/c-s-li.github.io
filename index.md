@@ -2,7 +2,7 @@
 
 <table border="0">
   <tr>
-      <p><b>Assistant Professor</b></p>
+      <p><b>Associate Professor</b></p>
       <p><b>Department of Decision Sciences</b></p>
       <p><b>School of Business</b></p>
       <p><b>Macau University of Science and Technology</b></p>
