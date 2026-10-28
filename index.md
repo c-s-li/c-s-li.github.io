@@ -201,7 +201,7 @@ Doctor of Philosophy (PhD) in Management, August 2025 (Graduated)
 
 **Wang, X.W.**
 
-Doctor of Philosophy (PhD) in Management, December 2026 (Expected)
+Doctor of Philosophy (PhD) in Management, October 2026 (Graduated)
 
 **Wu, H.F.**
 
@@ -211,7 +211,7 @@ Doctor of Business Administration (DBA) student from 2024
 
 Doctor of Philosophy (PhD) in Management student from 2025
 
-## SELECTED OUTSTANDING ALUMNI
+<!--## SELECTED OUTSTANDING ALUMNI
 
 **Peng, Y.Y. (Bachelor of Business Analytics)**
 
@@ -230,6 +230,7 @@ ISO 50001 implementation and cost management in manufacturing industries. Presen
 **Xu, M.H. (Master of Management Studies)**
 
 Driving Post-pandemic Retail Operations: The Effect of Live Streaming E-commerce. Presented in **[POMS 31st Annual Conference (POMS 2021)](https://pomsmeetings.org/conf-2021/index.html)**.
+-->
 
 ## HOBBIES
 
