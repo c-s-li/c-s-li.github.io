@@ -107,7 +107,7 @@ Pan, X, Wong, C.W.Y.* , **Li, C.S.** (2022) [Circular economy practices in the w
 
 [UTD 24, SCIE, Impact factor 4.673, JCR Q1, Ranking 10/83]-->
 
-### Conference Papers/Presentations
+### Selected Conference Papers/Presentations
 
 Tan, K.Y.#, Tian, Y.H., Xu, F., & **Li, C.S.*** (2024) Agile Volunteer Scheduling in Flood Management: Integrating ARCGIS and the Multi-Strategy Grey Wolf Optimization Algorithm. **[31st EurOMA conference (EurOMA 2024)](https://euroma2024.org/)**, Barcelona, Spain. 
 
